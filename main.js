@@ -1,5 +1,5 @@
 const data = "Hola mundo";
 console.log(data);
 
-const err = "Error";
-console.log(err);
+const err = "error";
+console.error(err);
